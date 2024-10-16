@@ -1,0 +1,10 @@
+{
+    "oauth": {
+      "requestTokenUrl": "https://api.discogs.com/oauth/request_token",
+      "authorizeUrl": "https://discogs.com/oauth/authorize?oauth_token=",
+      "accessTokenUrl": "https://api.discogs.com/oauth/access_token"
+    },
+    "appUserAgent": "MusicApp/1.0",
+    "storageAppId": "@MusicApp:",
+    "apiBaseUrl": "https://api.discogs.com/"
+  }
