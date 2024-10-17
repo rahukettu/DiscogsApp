@@ -89,4 +89,5 @@ Contributions are welcome! Please feel free to open issues or submit pull reques
 
 Contact
 
-For any inquiries, please reach out to rahukettu@gmx.com.
+For any inquiries, please[ reach out to rahukettu@gmx.com.
+API info in Discogs: (https://www.discogs.com/developers)
